@@ -30,14 +30,14 @@ Beyond that  there’s a huge amount of free high quality resources for self-edu
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 ___
 
-###Skills and Proficiency:
+### Skills and Proficiency:
 
 * Java Basics
 * Git, GitHub
 * VS Code
 ___
 
-####Code example:
+#### Code example:
 Example A)
 This code is example from codewars website:
 
@@ -70,7 +70,7 @@ else if (command == 3) {
                     System.out.println("На вашем счету осталось совсем немного. Стоит начать экономить!");
 ```
 ____
-###Languages:
+### Languages:
 
 * English C1
 * German B1
