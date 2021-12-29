@@ -7,10 +7,10 @@
 ### Student frontend-developer
 ---
 ### Contact information:
-__Phone:__ +79199222463
-__E-mail:__ gogenmogen72@gmail.com
-__Telegram:__ @Green-Horn
-[Instagram](https://www.instagram.com/mr.gog/ "Push me")
+* __Phone:__ +79199222463
+* __E-mail:__ gogenmogen72@gmail.com
+* __Telegram:__ @Green-Horn
+* [Instagram](https://www.instagram.com/mr.gog/ "Push me")
 
 ___
 
@@ -29,10 +29,12 @@ Beyond that  there’s a huge amount of free high quality resources for self-edu
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 ___
+
 ###Skills and Proficiency:
-Java Basics
-Git, GitHub
-VS Code
+
+* Java Basics
+* Git, GitHub
+* VS Code
 ___
 
 ####Code example:
@@ -69,6 +71,7 @@ else if (command == 3) {
 ```
 ____
 ###Languages:
-English C1
-German B1
-Russian - Native
+
+* English C1
+* German B1
+* Russian - Native
