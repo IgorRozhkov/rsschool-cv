@@ -1,7 +1,8 @@
 ### CV rsschool-cv
 ---
 # Igor Rozhkov 
-![photo](img\IMG_0089.jpg"title")
+<img src="https://github.com/IgorRozhkov/rsschool-cv/blob/gh-pages/img/IMG_0089.jpg" alt="photo"/>
+
 ---
 ### Student frontend-developer
 ---
