@@ -18,7 +18,7 @@ I'm an English teacher. I give private lessons to the children, prepare them for
 
 I'm able to interest my students, find a common language and integrate their interests into the learning process.I prefer the communicative method of teaching.
 
-In 2019, while I was a student, I started to work at the school. I prefer to get practical work skills, so I started to work from the 3rd year of study in Uni.
+In 2019, while I was a student, I started to work in a school. I prefer to get practical work skills, so I started to work from the 3rd year of study in Uni.
 Now, I am a student of the 5th and this year I decided to study IT science, which is new field for me.
 
 I have enrolled in RS-school and looked for some JAVA courses and studied free steps in Yandex practicum. Which was painfull. 
@@ -34,7 +34,7 @@ ___
 
 * Java Basics
 * Git, GitHub
-* VS Code
+* VS Code 
 ___
 
 #### Code example:
